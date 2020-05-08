@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c89f3945a165952c9fc91ec15096cc19",
+    "revision": "bf198bb1f98240abd401a55b6ec6a50a",
     "url": "/lfjEI/index.html"
   },
   {
-    "revision": "f8e76ddf2a71367fcfef",
-    "url": "/lfjEI/static/css/main.19c72fb0.chunk.css"
+    "revision": "e522050dcbd87162da1c",
+    "url": "/lfjEI/static/css/main.32eab661.chunk.css"
   },
   {
     "revision": "f3d7e40cb1d5d8618646",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lfjEI/static/js/2.fadbf519.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8e76ddf2a71367fcfef",
+    "revision": "e522050dcbd87162da1c",
     "url": "/lfjEI/static/js/main.9b2f613c.chunk.js"
   },
   {

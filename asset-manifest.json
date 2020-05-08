@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lfjEI/static/css/main.19c72fb0.chunk.css",
+    "main.css": "/lfjEI/static/css/main.32eab661.chunk.css",
     "main.js": "/lfjEI/static/js/main.9b2f613c.chunk.js",
     "main.js.map": "/lfjEI/static/js/main.9b2f613c.chunk.js.map",
     "runtime-main.js": "/lfjEI/static/js/runtime-main.a1987249.js",
@@ -8,9 +8,9 @@
     "static/js/2.fadbf519.chunk.js": "/lfjEI/static/js/2.fadbf519.chunk.js",
     "static/js/2.fadbf519.chunk.js.map": "/lfjEI/static/js/2.fadbf519.chunk.js.map",
     "index.html": "/lfjEI/index.html",
-    "precache-manifest.2b5a29a6268b62c4baad5f29d752b0cd.js": "/lfjEI/precache-manifest.2b5a29a6268b62c4baad5f29d752b0cd.js",
+    "precache-manifest.e5cc9635bd9c107a8dffae7851c6ef9f.js": "/lfjEI/precache-manifest.e5cc9635bd9c107a8dffae7851c6ef9f.js",
     "service-worker.js": "/lfjEI/service-worker.js",
-    "static/css/main.19c72fb0.chunk.css.map": "/lfjEI/static/css/main.19c72fb0.chunk.css.map",
+    "static/css/main.32eab661.chunk.css.map": "/lfjEI/static/css/main.32eab661.chunk.css.map",
     "static/js/2.fadbf519.chunk.js.LICENSE.txt": "/lfjEI/static/js/2.fadbf519.chunk.js.LICENSE.txt",
     "static/media/bg1.jpg": "/lfjEI/static/media/bg1.4eef9786.jpg",
     "static/media/bg2.jpg": "/lfjEI/static/media/bg2.08744d6f.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a1987249.js",
     "static/js/2.fadbf519.chunk.js",
-    "static/css/main.19c72fb0.chunk.css",
+    "static/css/main.32eab661.chunk.css",
     "static/js/main.9b2f613c.chunk.js"
   ]
 }
