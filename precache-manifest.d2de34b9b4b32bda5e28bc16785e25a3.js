@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e073fd6de5aa52f6fe504030045220f",
+    "revision": "67b23328d0a6d5aff7ec2543c1b33cf3",
     "url": "/lfjEI/index.html"
   },
   {
-    "revision": "b4fb6c52a61d7ec82dd2",
-    "url": "/lfjEI/static/css/main.5bae0ad1.chunk.css"
+    "revision": "6952562dba8c9b9e0b7e",
+    "url": "/lfjEI/static/css/main.c5abb1b5.chunk.css"
   },
   {
-    "revision": "61692f76872f52358bd7",
-    "url": "/lfjEI/static/js/2.928f4e46.chunk.js"
+    "revision": "5928f1367784d6fcae5d",
+    "url": "/lfjEI/static/js/2.20548973.chunk.js"
   },
   {
     "revision": "b17efaeb5447a326300bf38cc78394ad",
-    "url": "/lfjEI/static/js/2.928f4e46.chunk.js.LICENSE.txt"
+    "url": "/lfjEI/static/js/2.20548973.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4fb6c52a61d7ec82dd2",
-    "url": "/lfjEI/static/js/main.1336619a.chunk.js"
+    "revision": "6952562dba8c9b9e0b7e",
+    "url": "/lfjEI/static/js/main.eaa46d3f.chunk.js"
   },
   {
     "revision": "e485ece183d889fde1a8",
@@ -48,7 +48,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lfjEI/static/media/bg7_1.abed231d.jpg"
   },
   {
+    "revision": "4a62e1e30bfbb1f7ad4b674968ee1805",
+    "url": "/lfjEI/static/media/contacts.4a62e1e3.png"
+  },
+  {
+    "revision": "8c3f5e8d1d5c17870dc3875ce9583437",
+    "url": "/lfjEI/static/media/devskills.8c3f5e8d.jpg"
+  },
+  {
     "revision": "7584594f9ebf323ef8838e014a6fc357",
     "url": "/lfjEI/static/media/react_logo.7584594f.png"
+  },
+  {
+    "revision": "060e45a1921d7ab2bc064db3fdb3d7ff",
+    "url": "/lfjEI/static/media/team.060e45a1.jpg"
   }
 ]);
