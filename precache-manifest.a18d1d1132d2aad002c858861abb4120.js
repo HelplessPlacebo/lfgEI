@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67b23328d0a6d5aff7ec2543c1b33cf3",
+    "revision": "cf6f9bb376986885cd4a3034f71ff9d6",
     "url": "/lfjEI/index.html"
   },
   {
-    "revision": "6952562dba8c9b9e0b7e",
-    "url": "/lfjEI/static/css/main.c5abb1b5.chunk.css"
+    "revision": "a7a4c34bb06e3ee12b15",
+    "url": "/lfjEI/static/css/main.f0026f8e.chunk.css"
   },
   {
-    "revision": "5928f1367784d6fcae5d",
-    "url": "/lfjEI/static/js/2.20548973.chunk.js"
+    "revision": "1d1571f3d63df519edaf",
+    "url": "/lfjEI/static/js/2.c311e1cb.chunk.js"
   },
   {
     "revision": "b17efaeb5447a326300bf38cc78394ad",
-    "url": "/lfjEI/static/js/2.20548973.chunk.js.LICENSE.txt"
+    "url": "/lfjEI/static/js/2.c311e1cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6952562dba8c9b9e0b7e",
-    "url": "/lfjEI/static/js/main.eaa46d3f.chunk.js"
+    "revision": "a7a4c34bb06e3ee12b15",
+    "url": "/lfjEI/static/js/main.624af706.chunk.js"
   },
   {
     "revision": "e485ece183d889fde1a8",
