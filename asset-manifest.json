@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/lfjEI/static/css/main.f0026f8e.chunk.css",
-    "main.js": "/lfjEI/static/js/main.624af706.chunk.js",
-    "main.js.map": "/lfjEI/static/js/main.624af706.chunk.js.map",
+    "main.css": "/lfjEI/static/css/main.f8ebf06a.chunk.css",
+    "main.js": "/lfjEI/static/js/main.ae24cfb8.chunk.js",
+    "main.js.map": "/lfjEI/static/js/main.ae24cfb8.chunk.js.map",
     "runtime-main.js": "/lfjEI/static/js/runtime-main.a1987249.js",
     "runtime-main.js.map": "/lfjEI/static/js/runtime-main.a1987249.js.map",
-    "static/js/2.c311e1cb.chunk.js": "/lfjEI/static/js/2.c311e1cb.chunk.js",
-    "static/js/2.c311e1cb.chunk.js.map": "/lfjEI/static/js/2.c311e1cb.chunk.js.map",
+    "static/js/2.364635ff.chunk.js": "/lfjEI/static/js/2.364635ff.chunk.js",
+    "static/js/2.364635ff.chunk.js.map": "/lfjEI/static/js/2.364635ff.chunk.js.map",
     "index.html": "/lfjEI/index.html",
-    "precache-manifest.a18d1d1132d2aad002c858861abb4120.js": "/lfjEI/precache-manifest.a18d1d1132d2aad002c858861abb4120.js",
+    "precache-manifest.2256a8f5e367720d311fefe54d11f08b.js": "/lfjEI/precache-manifest.2256a8f5e367720d311fefe54d11f08b.js",
     "service-worker.js": "/lfjEI/service-worker.js",
-    "static/css/main.f0026f8e.chunk.css.map": "/lfjEI/static/css/main.f0026f8e.chunk.css.map",
-    "static/js/2.c311e1cb.chunk.js.LICENSE.txt": "/lfjEI/static/js/2.c311e1cb.chunk.js.LICENSE.txt",
+    "static/css/main.f8ebf06a.chunk.css.map": "/lfjEI/static/css/main.f8ebf06a.chunk.css.map",
+    "static/js/2.364635ff.chunk.js.LICENSE.txt": "/lfjEI/static/js/2.364635ff.chunk.js.LICENSE.txt",
+    "static/media/angular.png": "/lfjEI/static/media/angular.5e7490aa.png",
     "static/media/bg1.jpg": "/lfjEI/static/media/bg1.4eef9786.jpg",
     "static/media/bg2.jpg": "/lfjEI/static/media/bg2.08744d6f.jpg",
     "static/media/bg3.jpg": "/lfjEI/static/media/bg3.be2ec03d.jpg",
@@ -20,13 +21,15 @@
     "static/media/CS.module.css": "/lfjEI/static/media/bg7_1.abed231d.jpg",
     "static/media/contacts.png": "/lfjEI/static/media/contacts.4a62e1e3.png",
     "static/media/devskills.jpg": "/lfjEI/static/media/devskills.8c3f5e8d.jpg",
+    "static/media/react.png": "/lfjEI/static/media/react.8f65a033.png",
     "static/media/react_logo.png": "/lfjEI/static/media/react_logo.7584594f.png",
-    "static/media/team.jpg": "/lfjEI/static/media/team.060e45a1.jpg"
+    "static/media/team.jpg": "/lfjEI/static/media/team.060e45a1.jpg",
+    "static/media/white.jpg": "/lfjEI/static/media/white.b36b0867.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1987249.js",
-    "static/js/2.c311e1cb.chunk.js",
-    "static/css/main.f0026f8e.chunk.css",
-    "static/js/main.624af706.chunk.js"
+    "static/js/2.364635ff.chunk.js",
+    "static/css/main.f8ebf06a.chunk.css",
+    "static/js/main.ae24cfb8.chunk.js"
   ]
 }
