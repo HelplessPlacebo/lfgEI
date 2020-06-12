@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7bcd59216c3b20c179394dbbf155c4c",
+    "revision": "32c1645f44b27d58facaa369534d661a",
     "url": "/lfjEI/index.html"
   },
   {
-    "revision": "dbcbd9ead937574fb357",
-    "url": "/lfjEI/static/css/main.92e5e147.chunk.css"
+    "revision": "0b528be6a218e4ceedb2",
+    "url": "/lfjEI/static/css/main.99c8cdcb.chunk.css"
   },
   {
     "revision": "67ec5dda187f461e159b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lfjEI/static/js/2.9daf67ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dbcbd9ead937574fb357",
-    "url": "/lfjEI/static/js/main.85b207b5.chunk.js"
+    "revision": "0b528be6a218e4ceedb2",
+    "url": "/lfjEI/static/js/main.b4857c90.chunk.js"
   },
   {
     "revision": "e485ece183d889fde1a8",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lfjEI/static/media/bg7_1.abed231d.jpg"
   },
   {
+    "revision": "fabda89525c93f4f36208fa3479c92c6",
+    "url": "/lfjEI/static/media/card_back_side.fabda895.jpg"
+  },
+  {
     "revision": "4a62e1e30bfbb1f7ad4b674968ee1805",
     "url": "/lfjEI/static/media/contacts.4a62e1e3.png"
   },
@@ -70,9 +74,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "060e45a1921d7ab2bc064db3fdb3d7ff",
     "url": "/lfjEI/static/media/team.060e45a1.jpg"
-  },
-  {
-    "revision": "b36b08674450ecc4189576d1207cba13",
-    "url": "/lfjEI/static/media/white.b36b0867.jpg"
   }
 ]);
